@@ -1,0 +1,46 @@
+{
+  "screen_data": [
+    {
+      "section_type": "Message"
+    },
+    {
+      "section_type": "Message"
+    },
+    {
+      "section_type": "Message"
+    },
+    {
+      "section_type": "Message"
+    },
+    {
+      "section_type": "Message"
+    }
+  ],
+  "user_data": [
+    {
+      "app_key": "ABCDEFDGET",
+      "name": "Shah Jahan",
+      "mobile": "+918113070081",
+      "email": "sjahanmi@gmail.com",
+      "image": ""
+    }
+  ],
+  "special_offer": [
+    {
+      "item_reference": 1,
+      "name": "Chicken Burger",
+      "image": "path.jpg",
+      "thumb_image": "thumbimage.jpg",
+      "actual_price": 10.5,
+      "offer_price": 10
+    },
+    {
+      "item_reference": 2,
+      "name": "Beef Burger",
+      "image": "path.jpg",
+      "thumb_image": "thumbimage.jpg",
+      "actual_price": 10.5,
+      "offer_price": 10.1
+    }
+  ]
+}
