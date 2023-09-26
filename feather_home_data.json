@@ -20,7 +20,14 @@
                 "CouponCode": ""
             },
             "AccommodationData": {
-                "HotelName": ""
+                "HotelName": "",
+                "AddressLine1": "",
+                "AddressLine2": "",
+                "Phone": "",
+                "Image": "",
+                "RoomNo": "",
+                "FromDate": "2023-09-26T11:11:18.1771523+05:30",
+                "ToDate": "2023-09-26T11:11:18.1771523+05:30"
             },
             "VideoData": {
                 "URL": "",
@@ -31,7 +38,7 @@
             "CardType": "IMG",
             "PostData": {
                 "PostedBy": "Shah Jahan",
-                "PostedOn": "2023-09-26T10:51:13.3169116+05:30",
+                "PostedOn": "2023-09-26T11:11:18.1771523+05:30",
                 "PostedIcon": "https://th.bing.com/th/id/OIP._6U3LSwC4qiLppGXRC2LbgHaJ-?pid=ImgDet&w=199&h=268&c=7&dpr=1.1"
             },
             "ImageData": {
@@ -46,7 +53,14 @@
                 "CouponCode": ""
             },
             "AccommodationData": {
-                "HotelName": ""
+                "HotelName": "",
+                "AddressLine1": "",
+                "AddressLine2": "",
+                "Phone": "",
+                "Image": "",
+                "RoomNo": "",
+                "FromDate": "2023-09-26T11:11:18.1771523+05:30",
+                "ToDate": "2023-09-26T11:11:18.1771523+05:30"
             },
             "VideoData": {
                 "URL": "",
@@ -57,7 +71,7 @@
             "CardType": "VID",
             "PostData": {
                 "PostedBy": "Shah Jahan",
-                "PostedOn": "2023-09-26T10:51:13.3177752+05:30",
+                "PostedOn": "2023-09-26T11:11:18.1771523+05:30",
                 "PostedIcon": "https://th.bing.com/th/id/OIP._6U3LSwC4qiLppGXRC2LbgHaJ-?pid=ImgDet&w=199&h=268&c=7&dpr=1.1"
             },
             "ImageData": {
@@ -72,11 +86,51 @@
                 "CouponCode": ""
             },
             "AccommodationData": {
-                "HotelName": ""
+                "HotelName": "",
+                "AddressLine1": "",
+                "AddressLine2": "",
+                "Phone": "",
+                "Image": "",
+                "RoomNo": "",
+                "FromDate": "2023-09-26T11:11:18.1771523+05:30",
+                "ToDate": "2023-09-26T11:11:18.1771523+05:30"
             },
             "VideoData": {
                 "URL": "uEyTW_xtR9I",
                 "Description": "Anything For You - Sam Shore feat. Josefine Fritzell"
+            }
+        },
+        {
+            "CardType": "ACC",
+            "PostData": {
+                "PostedBy": "Accomodation Committee",
+                "PostedOn": "2023-09-26T11:11:18.1771523+05:30",
+                "PostedIcon": "https://th.bing.com/th/id/OIP._6U3LSwC4qiLppGXRC2LbgHaJ-?pid=ImgDet&w=199&h=268&c=7&dpr=1.1"
+            },
+            "ImageData": {
+                "URL": "",
+                "Description": ""
+            },
+            "TransportationData": {
+                "CouponCode": "",
+                "Trips": []
+            },
+            "FoodData": {
+                "CouponCode": ""
+            },
+            "AccommodationData": {
+                "HotelName": "Ultimate Hotel",
+                "AddressLine1": "St. Shah Road",
+                "AddressLine2": "ABCD Street, SITYNAME",
+                "Phone": "+918113070081",
+                "Image": "",
+                "RoomNo": "",
+                "FromDate": "2023-09-26T11:11:18.1771523+05:30",
+                "ToDate": "2023-09-28T11:11:18.1771523+05:30"
+            },
+            "VideoData": {
+                "URL": "",
+                "Description": ""
             }
         }
     ]
