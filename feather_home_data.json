@@ -1,0 +1,55 @@
+{
+    "UserName": "Shah Jahan",
+    "Cards": [
+        {
+            "CardType": "WEL",
+            "PostData": {
+                "PostedBy": "",
+                "PostedOn": "0001-01-01T00:00:00",
+                "PostedIcon": ""
+            },
+            "ImageData": {
+                "URL": "",
+                "Description": ""
+            },
+            "TransportationData": {
+                "CouponCode": "",
+                "Trips": []
+            },
+            "FoodData": {
+                "CouponCode": ""
+            },
+            "AccommodationData": {
+                "HotelName": ""
+            },
+            "VideoData": {
+                "URL": ""
+            }
+        },
+        {
+            "CardType": "IMG",
+            "PostData": {
+                "PostedBy": "Shah Jahan",
+                "PostedOn": "2023-09-26T09:47:11.6159791+05:30",
+                "PostedIcon": "https://th.bing.com/th/id/OIP._6U3LSwC4qiLppGXRC2LbgHaJ-?pid=ImgDet&w=199&h=268&c=7&dpr=1.1"
+            },
+            "ImageData": {
+                "URL": "https://im.indiatimes.in/facebook/2017/Apr/afp3_1493092527_1493092532.jpg",
+                "Description": "Welcome to ORniSoft!"
+            },
+            "TransportationData": {
+                "CouponCode": "",
+                "Trips": []
+            },
+            "FoodData": {
+                "CouponCode": ""
+            },
+            "AccommodationData": {
+                "HotelName": ""
+            },
+            "VideoData": {
+                "URL": ""
+            }
+        }
+    ]
+}
